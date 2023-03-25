@@ -15,5 +15,5 @@ Calculates your income tax as well as give you a graphical representation of it
 
 ## Additional
 To see all the current data of user, login with <br>
-Account ID: admin
+Account ID: admin <br>
 Password: 0000
